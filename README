@@ -1,0 +1,22 @@
+# Object Detection and Tracking — CodeAlpha AI Internship
+
+Real-time object detection and tracking using YOLOv8 and DeepSORT.
+
+## 🔍 What it does
+- Detects objects (cars, trucks, people etc.) in video
+- Assigns unique tracking IDs to each object
+- Draws bounding boxes with labels in real time
+
+## 🛠️ Tech Stack
+- Python
+- YOLOv8 (Ultralytics)
+- DeepSORT (deep-sort-realtime)
+- OpenCV
+
+## ▶️ How to Run
+pip install ultralytics opencv-python deep-sort-realtime
+python main.py
+
+## 📸 Output
+
+
